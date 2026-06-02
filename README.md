@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hey there, I'm Harshita 👋
 
-<!--
-**Harshitha671/Harshitha671** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Software Developer | 💻 Django Developer | 🌱 Tech Enthusiast
 
-Here are some ideas to get you started:
+## 💫 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Final Year B.Tech CSE Student at Vignan's Nirula Institute of Technology and Science for Women
+
+💡 Passionate about Software Development and Backend Engineering
+
+🧠 Strong interest in Data Structures, Algorithms, and Problem Solving
+
+🌍 Building real-world web applications using Python and Django
+
+🎯 Currently preparing for Software Developer and Python Developer roles
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+Python • HTML • CSS • JavaScript
+
+### 🧩 Frameworks
+
+Django • Bootstrap
+
+### 🗄️ Database
+
+MySQL
+
+### ⚙️ Tools
+
+Git • GitHub • VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 📝 Django To-Do List Application
+
+* Add, Edit, and Delete Tasks
+* Complete/Undo Tasks
+* Due Dates & Priority Management
+* Search Functionality
+* Dark Mode
+* Task Statistics Dashboard
+
+---
+
+## 🎯 Current Focus
+
+📚 Learning Django REST Framework
+
+💻 Building Portfolio Projects
+
+🧠 Improving DSA and Problem-Solving Skills
+
+🚀 Preparing for Placements and Software Development Roles
+
+---
+
+## 🏆 Highlights
+
+✅ Built Django-based Web Applications
+
+✅ Developed Real-World Projects Using Python and Django
+
+✅ Continuously Improving Problem-Solving Skills
+
+---
+
+## 🌐 Connect With Me
+
+💻 GitHub: https://github.com/Harshitha671
+
+💼 LinkedIn: https://www.linkedin.com/in/kommasani-harshitha-629098303/
+
+---
+
+✨ "Code. Learn. Build. Grow." ✨
+
