@@ -75,7 +75,7 @@ Git • GitHub • VS Code
 
 💻 GitHub: https://github.com/Harshitha671
 
-💼 LinkedIn: https://www.linkedin.com/in/kommasani-harshitha-629098303/
+💼 LinkedIn: www.linkedin.com/in/kommasani-harshitha-629098303
 
 ---
 
