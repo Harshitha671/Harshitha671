@@ -1,6 +1,6 @@
 # Hey there, I'm Harshita 👋
 
-🚀 Aspiring Software Developer | 💻 Django Developer | 🌱 Tech Enthusiast
+🚀 Aspiring Software Developer | 💻 web  Developer | 🌱 Tech Enthusiast
 
 ## 💫 About Me
 
@@ -8,7 +8,7 @@
 
 💡 Passionate about Software Development and Backend Engineering
 
-🧠 Strong interest in Data Structures, Algorithms, and Problem Solving
+🧠 Strong interest in Data Structures and Problem Solving
 
 🌍 Building real-world web applications using Python and Django
 
@@ -24,7 +24,7 @@ Python • HTML • CSS • JavaScript
 
 ### 🧩 Frameworks
 
-Django • Bootstrap
+Django 
 
 ### 🗄️ Database
 
