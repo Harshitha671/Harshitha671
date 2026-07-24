@@ -1,77 +1,79 @@
 # Hey there, I'm Harshita 👋
 
-🚀 Aspiring Software Developer | 💻 web  Developer | 🌱 Tech Enthusiast
+## 🚀 Aspiring Software Developer | Python Enthusiast | Problem Solver
 
-## 💫 About Me
+### 💫 About Me
 
-🎓 Final Year B.Tech CSE Student at Vignan's Nirula Institute of Technology and Science for Women
+🎓 Final-Year B.Tech Computer Science & Engineering Student
 
-💡 Passionate about Software Development and Backend Engineering
+💻 Passionate about Software Development
 
-🧠 Strong interest in Data Structures and Problem Solving
+🐍 Currently learning Python, SQL, Data Structures & Algorithms
 
-🌍 Building real-world web applications using Python and Django
+🌱 Building real-world projects to strengthen my programming and problem-solving skills
 
-🎯 Currently preparing for Software Developer and Python Developer roles
+🎯 Actively preparing for Software Developer and Python Developer roles
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-
-Python • HTML • CSS • JavaScript
-
-### 🧩 Frameworks
-
-Django 
+- Python
+- HTML
+- CSS
+- JavaScript
 
 ### 🗄️ Database
-
-MySQL
+- MySQL
 
 ### ⚙️ Tools
-
-Git • GitHub • VS Code
+- Git
+- GitHub
+- VS Code
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
-### 📝 Django To-Do List Application
+### 🎓 Student Management System
+- Student, Staff & Admin Management
+- Attendance Management
+- Course & Subject Management
+- Result Management
+- Authentication & Role-Based Access
 
-* Add, Edit, and Delete Tasks
-* Complete/Undo Tasks
-* Due Dates & Priority Management
-* Search Functionality
-* Dark Mode
-* Task Statistics Dashboard
+### 🏠 Smart Home Appliance Control Using Hand Gestures
+- Hand Gesture Recognition using OpenCV
+- IoT-Based Home Automation
+- Machine Learning Integration
+- Arduino-Based Appliance Control
 
 ---
 
 ## 🎯 Current Focus
 
-📚 Learning Django REST Framework
+📚 Learning Python, SQL, and Data Structures & Algorithms
 
-💻 Building Portfolio Projects
+💻 Building Full-Stack Projects with Django
 
-🧠 Improving DSA and Problem-Solving Skills
+🧠 Improving Problem-Solving Skills
 
-🚀 Preparing for Placements and Software Development Roles
-
----
-
-## 🏆 Highlights
-
-✅ Built Django-based Web Applications
-
-✅ Developed Real-World Projects Using Python and Django
-
-✅ Continuously Improving Problem-Solving Skills
+🚀 Preparing for Software Developer Interviews
 
 ---
 
-## 🌐 Connect With Me
+## 🌱 Currently Learning
+
+- Python
+- SQL
+- Data Structures & Algorithms
+- Django
+- Git & GitHub
+
+---
+
+## 📫 Connect With Me
 
 💻 GitHub: https://github.com/Harshitha671
 
@@ -79,5 +81,4 @@ Git • GitHub • VS Code
 
 ---
 
-✨ "Code. Learn. Build. Grow." ✨
-
+> **"Learn. Build. Improve. Repeat." 🚀**
