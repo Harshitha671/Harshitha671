@@ -1,72 +1,78 @@
-Hey there, I'm Harshitha 👋
-🚀 Aspiring Full Stack Developer | Python & Django Enthusiast | Problem Solver
+<div align="center">
 
-💫 About Me
-🎓 Final-Year B.Tech Computer Science & Engineering Student
-💻 Passionate about Full Stack Web Development
-🐍 Skilled in Python, Django, JavaScript, and SQL
-🌱 Building end-to-end, database-driven web applications to strengthen my development skills
-🎯 Actively preparing for Full Stack Developer and Software Developer roles
+# Hi there, I'm Harshitha 👋
 
-🛠️ Tech Stack
-💻 Programming Languages
+### 🚀 Aspiring Full Stack Developer | Python & Django Enthusiast | Problem Solver 💫
 
-* Python
-* JavaScript
-* C
+<p align="center">
+  <a href="https://github.com/Harshitha671">
+    <img src="https://shields.io" alt="GitHub Badge">
+  </a>
+  <a href="https://www.linkedin.com/in/kommasani-harshitha-629098303">
+    <img src="https://shields.io" alt="LinkedIn Badge">
+  </a>
+</p>
 
-🌐 Web Technologies
+</div>
 
-* HTML5
-* CSS3
-* Django (Backend Framework)
+---
 
-🗄️ Database
+### About Me
 
-* SQL
-* MySQL
+* 🎓 Final-Year **B.Tech Computer Science & Engineering** Student.
+* 💻 Passionate about **Full Stack Web Development** and building end-to-end, database-driven web applications.
+* 🎯 Actively preparing for **Full Stack Developer** and **Software Developer** roles.
 
-⚙️ Tools
+---
 
-* Git
-* GitHub
-* VS Code
+### 🛠️ Tech Stack
 
-📌 Internship
-🎓 Student Digital Certificate Management System — Ulearn
+| Category | Technologies / Tools |
+| :--- | :--- |
+| **Programming Languages** | `Python`, `JavaScript`, `C`, `Java` |
+| **Web Technologies** | `HTML5`, `CSS3`, `Django` |
+| **Databases** | `SQL`, `MySQL`, `SQLite` |
+| **Tools & Platforms** | `Git`, `GitHub`, `VS Code` |
 
-* Student, Certificate & Admin Management
-* Role-Based Authentication (Admin & Students)
-* Certificate Upload, Assignment, Viewing & Downloading
-* Certificate Verification Using Unique Certificate Numbers
-* Built with Django, MySQL, HTML, CSS & JavaScript
+---
 
-📌 Projects
-🏦 Online Banking System
+### 📌 Internship Experience
 
-* Secure Account Management, Deposits, Withdrawals & Fund Transfers
-* User Registration/Login & Admin Functionalities
-* Transaction Processing with Django ORM (SQLite)
-* Responsive Frontend with HTML & CSS
-* 🔗 https://github.com/Harshitha671/Online-Banking-system
+* **Student Digital Certificate Management System — Ulearn**
+  * Managed student, certificate, and admin workflows with role-based authentication.
+  * Implemented certificate upload, assignment, viewing, downloading, and unique-number verification.
+  * **Tech Stack:** Django, MySQL, HTML, CSS, JavaScript.
 
-🏆 Achievements
-🧩 Solved 200+ algorithmic problems on LeetCode and HackerRank across arrays, hashing, and core DSA topics using Java and Python
+---
 
-🎯 Current Focus
-📚 Learning Python, SQL, and Data Structures & Algorithms
-💻 Building Full-Stack Projects with Django
-🧠 Improving Problem-Solving Skills
-🚀 Preparing for Full Stack Developer Interviews
+### 📌 Featured Projects
 
-🌱 Currently Learning
+* **Online Banking System**
+  * Secure account management, deposits, withdrawals, fund transfers, and admin functionalities.
+  * Transaction processing handled via Django ORM with a responsive frontend.
+  * 🔗 [View Repository](https://github.com/Harshitha671/Online-Banking-system)
 
-* Python
-* SQL
-* Data Structures & Algorithms
-* Django
-* Git & GitHub
+---
 
-📫 Connect With Me
-💻 GitHub: https://github.com/Harshitha671
-💼 LinkedIn: [www.linkedin.com/in/kommasani-harshitha-629098303](https://www.linkedin.com/in/kommasani-harshitha-629098303)
+### 🏆 Achievements
+
+* 🧩 Solved **200+ algorithmic problems** on LeetCode</inline> and HackerRank</inline> covering arrays, hashing, and core DSA topics using Java and Python.
+
+---
+
+### 🎯 Current Focus & Learning
+
+* 📚 Mastering Data Structures & Algorithms, Python, and advanced SQL.
+* 💻 Building dynamic full-stack applications using Django</inline>.
+* 🚀 Preparing for technical interviews.
+
+---
+
+### 📫 Connect With Me
+
+* 💻 GitHub: [Harshitha671](https://github.com/Harshitha671)
+* 💼 LinkedIn: [Kommasani Harshitha](https://www.linkedin.com/in/kommasani-harshitha-629098303)
+
+<div align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
+</div>
