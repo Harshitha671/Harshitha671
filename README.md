@@ -4,15 +4,6 @@
 
 ### 🚀 Aspiring Full Stack Developer | Python & Django Enthusiast | Problem Solver 💫
 
-<p align="center">
-  <a href="https://github.com/Harshitha671">
-    <img src="https://shields.io" alt="GitHub Badge">
-  </a>
-  <a href="https://www.linkedin.com/in/kommasani-harshitha-629098303">
-    <img src="https://shields.io" alt="LinkedIn Badge">
-  </a>
-</p>
-
 </div>
 
 ---
@@ -27,12 +18,10 @@
 
 ### 🛠️ Tech Stack
 
-| Category | Technologies / Tools |
-| :--- | :--- |
-| **Programming Languages** | `Python`, `JavaScript`, `C`, `Java` |
-| **Web Technologies** | `HTML5`, `CSS3`, `Django` |
-| **Databases** | `SQL`, `MySQL`, `SQLite` |
-| **Tools & Platforms** | `Git`, `GitHub`, `VS Code` |
+* **Programming Languages:** Python, JavaScript, C, Java
+* **Web Technologies:** HTML5, CSS3, Django
+* **Databases:** SQL, MySQL, SQLite
+* **Tools & Platforms:** Git, GitHub, VS Code
 
 ---
 
@@ -50,29 +39,25 @@
 * **Online Banking System**
   * Secure account management, deposits, withdrawals, fund transfers, and admin functionalities.
   * Transaction processing handled via Django ORM with a responsive frontend.
-  * 🔗 [View Repository](https://github.com/Harshitha671/Online-Banking-system)
+  * 🔗 [View Repository](https://github.com)
 
 ---
 
 ### 🏆 Achievements
 
-* 🧩 Solved **200+ algorithmic problems** on LeetCode</inline> and HackerRank</inline> covering arrays, hashing, and core DSA topics using Java and Python.
+* 🧩 Solved **200+ algorithmic problems** on LeetCode and HackerRank covering arrays, hashing, and core DSA topics using Java and Python.
 
 ---
 
 ### 🎯 Current Focus & Learning
 
-* 📚 Mastering Data Structures & Algorithms, Python, and advanced SQL.
-* 💻 Building dynamic full-stack applications using Django</inline>.
+* 📚 Mastering Data Structures & Algorithms, Python, and  SQL.
+* 💻 Building dynamic full-stack applications using Django.
 * 🚀 Preparing for technical interviews.
 
 ---
 
 ### 📫 Connect With Me
 
-* 💻 GitHub: [Harshitha671](https://github.com/Harshitha671)
-* 💼 LinkedIn: [Kommasani Harshitha](https://www.linkedin.com/in/kommasani-harshitha-629098303)
-
-<div align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
-</div>
+* 💻 GitHub: [Harshitha671](https://github.com)
+* 💼 LinkedIn: [Kommasani Harshitha](https://linkedin.com)
