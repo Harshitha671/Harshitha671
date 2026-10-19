@@ -18,9 +18,9 @@
 
 ### 🛠️ Tech Stack
 
-* **Programming Languages:** Python, JavaScript, C, Java
-* **Web Technologies:** HTML5, CSS3, Django
-* **Databases:** SQL, MySQL, SQLite
+* **Programming Languages:** C,Python
+* **Web Technologies:** HTML, CSS, Django
+* **Databases:**  MySQL
 * **Tools & Platforms:** Git, GitHub, VS Code
 
 ---
@@ -30,7 +30,7 @@
 * **Student Digital Certificate Management System — Ulearn**
   * Managed student, certificate, and admin workflows with role-based authentication.
   * Implemented certificate upload, assignment, viewing, downloading, and unique-number verification.
-  * **Tech Stack:** Django, MySQL, HTML, CSS, JavaScript.
+  * **Tech Stack:** Django, SQLLite, HTML, CSS, JavaScript.
 
 ---
 
@@ -45,7 +45,7 @@
 
 ### 🏆 Achievements
 
-* 🧩 Solved **200+ algorithmic problems** on LeetCode and HackerRank covering arrays, hashing, and core DSA topics using Java and Python.
+* 🧩 Solved **100+ algorithmic problems** on LeetCode and HackerRank covering arrays, hashing, and core DSA topics using  Python.
 
 ---
 
